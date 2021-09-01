@@ -6,7 +6,7 @@
 
 button {
     padding: 1rem;
-    font: caption;
+    font: 1.5rem caption;
     cursor: pointer;
     border: 1px solid transparent;
     border-radius: 0.5rem;
@@ -14,6 +14,6 @@ button {
     background: rgb(16, 158, 3);
 }
 h3, p {
-    font: italic small-caps bold 1.2rem/1 cursive;
+    font: italic small-caps bold 1.5rem/1 cursive;
     text-align: center;
 }
