@@ -1,0 +1,19 @@
+.btn-sec {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+
+button {
+    padding: 1rem;
+    font: caption;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 0.5rem;
+    color: rgb(255, 255, 255);
+    background: rgb(16, 158, 3);
+}
+h3, p {
+    font: italic small-caps bold 1.2rem/1 cursive;
+    text-align: center;
+}
